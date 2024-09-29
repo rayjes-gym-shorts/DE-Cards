@@ -1,186 +1,186 @@
-﻿Name,Region,Type,Set,Cost,FileName
-Quallon,Weave,Creature,Dream's End,3,quallon.jpg
-Flugg,Weave,Creature,Dream's End,4,flugg.jpg
-Alaban Kit,Arderial,Creature,Dream's End,2,alaban_kit.jpg
-Nocturne,Naroom,Spell,Dream's End,4,nocturne.jpg
-Dark Furok,Core,Creature,Dream's End,6,dark_furok.jpg
-Kesia,Weave,Magi,Dream's End,14,kesia.jpg
-Stealth,Core,Spell,Dream's End,3,stealth.jpg
-Targ'n,Kybar's Teeth,Magi,Dream's End,17,targn.jpg
-Sorrowing Ogar,Underneath,Magi,Dream's End,15,sorrowing_ogar.jpg
-The Hunt,Weave,Spell,Dream's End,1,the_hunt.jpg
-Elios,Arderial,Magi,Dream's End,10,elios.jpg
-Chogulith,Kybar's Teeth,Relic,Dream's End,2,chogulith.jpg
-Weave Winds,Weave,Spell,Dream's End,6,weave_winds.jpg
-Tomorrow's Jewel,Universal,Relic,Dream's End,1,tomorrows_jewel.jpg
-Moga Pup,Kybar's Teeth,Creature,Dream's End,4,moga_pup.jpg
-Grass Hyren,Weave,Creature,Dream's End,6,grass_hyren.jpg
-Rock Slide,Kybar's Teeth,Spell,Dream's End,5,kybars_teeth_rockslide.jpg
-Crag Quor,Kybar's Teeth,Creature,Dream's End,7,crag_quor.jpg
-Zaya's Bow,Weave,Relic,Dream's End,0,zayas_bow.jpg
-Groll - Watchkeeper,Kybar's Teeth,Magi,Dream's End,10,groll.jpg
-Junjertrug,Weave,Creature,Dream's End,7,junjertrug.jpg
-Rayje's Cloak,Universal,Relic,Dream's End,2,rayjes_cloak.jpg
-Mosp,Kybar's Teeth,Creature,Dream's End,4,mosp.jpg
-Jip,Naroom,Creature,Dream's End,3,jip.jpg
-Iyori,Weave,Magi,Dream's End,15,iyori.jpg
-Cald Shadow Geyser,Core,Spell,Dream's End,5,cald_shadow_geyser.jpg
-Secrets of the Book,Core,Relic,Dream's End,0,secrets_of_the_book.jpg
-Staff of Keepers,Universal,Relic,Dream's End,0,staff_of_keepers.jpg
-Zannah,Naroom,Magi,Dream's End,14,zannah.jpg
-Wessig,Kybar's Teeth,Magi,Dream's End,13,wessig.jpg
-Baldar,Kybar's Teeth,Creature,Dream's End,6,baldar.jpg
-Giant Baldar,Kybar's Teeth,Creature,Dream's End,9,giant_baldar.jpg
-Silth Giant,Cald,Creature,Dream's End,10,silth_giant.jpg
-Searing Touch,Cald,Spell,Dream's End,3,searing_touch.jpg
-Xamf,Kybar's Teeth,Creature,Dream's End,5,xamf.jpg
-Underneath Shadow Geyser,Core,Spell,Dream's End,5,underneath_shadow_geyser.jpg
-Diomant,Cald,Creature,Dream's End,6,diomant.jpg
-Drought,Weave,Spell,Dream's End,2,drought.jpg
-Evu's Jellybeans,Naroom,Relic,Dream's End,X,evus_jellybeans.jpg
-Kesia's Flute,Weave,Relic,Dream's End,0,kesias_flute.jpg
-Weave Mat,Weave,Relic,Dream's End,2,weave_mat.jpg
-Koll,Kybar's Teeth,Magi,Dream's End,12,koll.jpg
-Tweave,Weave,Creature,Dream's End,1,tweave.jpg
-Frusk,Weave,Creature,Dream's End,2,frusk.jpg
-Speag,Weave,Creature,Dream's End,2,speag.jpg
-Vertigo,Kybar's Teeth,Spell,Dream's End,2,vertigo.jpg
-Kybar's Scroll,Kybar's Teeth,Relic,Dream's End,0,kybars_scroll.jpg
-Ascend,Kybar's Teeth,Spell,Dream's End,2,ascend.jpg
-Vogo,Kybar's Teeth,Creature,Dream's End,6,vogo.jpg
-Gargagnor,Kybar's Teeth,Creature,Dream's End,4,gargagnor.jpg
-Evil Evu,Core,Magi,Dream's End,15,evil_evu.jpg
-Gratch,Kybar's Teeth,Creature,Dream's End,4,gratch.jpg
-Emec,Kybar's Teeth,Magi,Dream's End,10,emec.jpg
-Agram's Plaything,Core,Relic,Dream's End,0,agrams_plaything.jpg
-Rayje's Sword,Universal,Relic,Dream's End,0,rayjes_sword.jpg
-Cragnoc,Kybar's Teeth,Creature,Dream's End,10,cragnoc.jpg
-Tuk Berries,Weave,Relic,Dream's End,0,tuk_berries.jpg
-Crystal Parmalag,Underneath,Creature,Dream's End,7,crystal_parmalag.jpg
-Heppeswip,Weave,Creature,Dream's End,4,heppeswip.jpg
-Elder Vellup,Arderial,Creature,Dream's End,5,elder_vellup.jpg
-Jagt,Kybar's Teeth,Magi,Dream's End,11,jagt.jpg
-Stone Quor,Kybar's Teeth,Creature,Dream's End,8,stone_quor.jpg
-Zassyfer,Weave,Creature,Dream's End,3,zassyfer.jpg
-Uwamar,Weave,Creature,Dream's End,3,uwamar.jpg
-Iximin,Orothe,Creature,Dream's End,3,iximin.jpg
-Grand Epik,Arderial,Creature,Dream's End,5,grand_epik.jpg
-Beam of Light,Universal,Spell,Dream's End,4,beam_of_light.jpg
-Garadan,Core,Creature,Dream's End,7,garadan.jpg
-Orothe Shadow Geyser,Core,Spell,Dream's End,5,orothe_shadow_geyser.jpg
-Kybar's Echo,Kybar's Teeth,Spell,Dream's End,1,kybars_echo.jpg
-Giant Arboll,Cald,Creature,Dream's End,4,giant_arboll.jpg
-Sheath,Weave,Spell,Dream's End,3,sheath.jpg
-Weave Mind,Weave,Spell,Dream's End,1,weave_mind.jpg
-Delia - Keeper,Arderial,Magi,Dream's End,12,delia.jpg
-Roar,Kybar's Teeth,Spell,Dream's End,2,roar.jpg
-Hubram,Underneath,Creature,Dream's End,2,hubram.jpg
-Weave Hyren,Weave,Creature,Dream's End,8,weave_hyren.jpg
-Ullig's Slingshot,Kybar's Teeth,Relic,Dream's End,0,ulligs_slingshot.jpg
-Karak Necklace,Orothe,Relic,Dream's End,0,karak_necklace.jpg
-Gremm's Helmet,Underneath,Relic,Dream's End,2,gremms_helmet.jpg
-Zajan,Naroom,Magi,Dream's End,15,zajan.jpg
-Bungaloo,Weave,Creature,Dream's End,2,bungaloo_weave.jpg
-Storm Shield,Arderial,Relic,Dream's End,0,storm_shield.jpg
-Junjertrug Horn,Weave,Relic,Dream's End,1,junjertrug_horn.jpg
-Naroom Shadow Geyser,Core,Spell,Dream's End,5,naroom_shadow_geyser.jpg
-Tremor Stones,Underneath,Relic,Dream's End,0,tremor_stones.jpg
-Rock Hyren,Kybar's Teeth,Creature,Dream's End,11,rock_hyren.jpg
-Pagajack,Weave,Creature,Dream's End,1,pagajack.jpg
-Lava Flow,Cald,Spell,Dream's End,2,lava_flow.jpg
-Jasker's Mask,Kybar's Teeth,Relic,Dream's End,0,jaskers_mask.jpg
-Riptide,Orothe,Spell,Dream's End,2,riptide.jpg
-Hidden Door,Underneath,Spell,Dream's End,2,hidden_door.jpg
-Climbing Staff,Kybar's Teeth,Relic,Dream's End,0,climbing_staff.jpg
-Marella,Weave,Magi,Dream's End,10,marella.jpg
-Yark Gloves,Kybar's Teeth,Relic,Dream's End,1,yark_gloves.jpg
-Arderial Shadow Geyser,Core,Spell,Dream's End,5,arderial_shadow_geyser.jpg
-Abraxin's Crown,Cald,Relic,Dream's End,0,abraxins_crown.jpg
-Moga,Kybar's Teeth,Creature,Dream's End,6,moga.jpg
-Fate's Whimsy,Universal,Spell,Dream's End,1,fates_whimsy.jpg
-Uwamar Beads,Weave,Relic,Dream's End,0,uwamar_beads.jpg
-Equilibrate,Universal,Spell,Dream's End,3,equilibrate.jpg
-Sorreah's Dream,Arderial,Spell,Dream's End,X,sorreahs_dream.jpg
-Binding,Weave,Spell,Dream's End,2,binding.jpg
-Nodj,Naroom,Creature,Dream's End,5,nodj.jpg
-Grej,Kybar's Teeth,Magi,Dream's End,13,grej.jpg
-Aritex,Weave,Creature,Dream's End,5,aritex.jpg
-Bungaloo,Naroom,Creature,Dream's End,2,bungaloo_naroom.jpg
-Bria,Orothe,Magi,Dream's End,12,bria.jpg
-Agram's Staff,Core,Relic,Dream's End,2,agrams_staff.jpg
-Nalo,Orothe,Creature,Dream's End,4,nalo.jpg
-Garan,Naroom,Creature,Dream's End,6,garan.jpg
-Harmony,Weave,Spell,Dream's End,6,harmony.jpg
-Osatch,Weave,Creature,Dream's End,2,osatch.jpg
-Bo'Ahsa,Weave,Magi,Dream's End,14,boahsa.jpg
-Yajo,Weave,Creature,Dream's End,3,yajo.jpg
-Ashio,Core,Magi,Dream's End,13,ashio.jpg
-Rayalon,Arderial,Creature,Dream's End,6,rayalon.jpg
-Cataclysm,Arderial,Spell,Dream's End,10,cataclysm.jpg
-Kazm,Kybar's Teeth,Magi,Dream's End,15,kazm.jpg
-Ullig,Kybar's Teeth,Magi,Dream's End,20,ullig.jpg
-Sawgrass,Weave,Spell,Dream's End,5,sawgrass.jpg
-Artyva,Weave,Magi,Dream's End,13,artyva.jpg
-Agrilla,Kybar's Teeth,Creature,Dream's End,6,agrilla.jpg
-Zaya,Weave,Magi,Dream's End,16,zaya.jpg
-Sagawal,Kybar's Teeth,Creature,Dream's End,3,sagawal.jpg
-Chaos Plith,Core,Creature,Dream's End,5,chaos_plith.jpg
-Pruitt's Robe,Naroom,Relic,Dream's End,0,pruitts_robe.jpg
-Pody,Weave,Creature,Dream's End,4,pody.jpg
-M'Rika,Orothe,Magi,Dream's End,12,mrika.jpg
-Deep Wellisk,Orothe,Creature,Dream's End,4,deep_wellisk.jpg
-Spore Vashp,Underneath,Creature,Dream's End,3,spore_vashp.jpg
-Moga Fang Necklace,Kybar's Teeth,Relic,Dream's End,0,moga_fang_necklace.jpg
-Swamp Hyren,Bograth,Creature,Dream's End,8,bograth_swamp_hyren.jpg
-Aglow,Underneath,Spell,Dream's End,2,aglow.jpg
-Shock Vashp,Arderial,Creature,Dream's End,2,shock_vashp.jpg
-Yark,Kybar's Teeth,Creature,Dream's End,5,yark.jpg
-Maelstrom Flask,Universal,Relic,Dream's End,0,maelstrom_flask.jpg
-Stone Storm,Kybar's Teeth,Spell,Dream's End,X+3,stone_storm.jpg
-Vaporize,Core,Spell,Dream's End,3,vaporize.jpg
-Vuryip,Weave,Creature,Dream's End,6,vuryip.jpg
-Lifeweave,Weave,Spell,Dream's End,2,lifeweave.jpg
-Vorga,Cald,Magi,Dream's End,13,vorga.jpg
-Jungle Hyren,Paradwyn,Creature,Dream's End,8,jungle_hyren.jpg
-Shell,Orothe,Spell,Dream's End,2,shell.jpg
-Lascinth,Weave,Creature,Dream's End,5,lascinth.jpg
-Smoke Xyx,Cald,Creature,Dream's End,4,smoke_xyx.jpg
-Kybar's Hammer,Kybar's Teeth,Relic,Dream's End,2,kybars_hammer.jpg
-Amanax,Cald,Magi,Dream's End,10,amanax.jpg
-Granite Parmalag,Kybar's Teeth,Creature,Dream's End,8,granite_parmalag.jpg
-Vim and Vigor,Naroom,Spell,Dream's End,4,vim_and_vigor.jpg
-Drowl,Weave,Creature,Dream's End,6,drowl.jpg
-Ominous Presence,Kybar's Teeth,Spell,Dream's End,1,ominous_presence.jpg
-Elder Weebo,Naroom,Creature,Dream's End,5,elder_weebo.jpg
-Hrada,Core,Magi,Dream's End,16,hrada.jpg
-Weggit,Weave,Creature,Dream's End,3,weggit.jpg
-Yerthe,Weave,Magi,Dream's End,14,yerthe.jpg
-Ahdar,Weave,Magi,Dream's End,15,ahdar.jpg
-Syre,Underneath,Creature,Dream's End,3,syre.jpg
-Chogus,Kybar's Teeth,Creature,Dream's End,4,chogus.jpg
-Giant Chogus,Kybar's Teeth,Creature,Dream's End,8,giant_chogus.jpg
-Weave Hut,Weave,Relic,Dream's End,0,weave_hut.jpg
-Parathin,Orothe,Creature,Dream's End,3,parathin.jpg
-Krawg,Cald,Creature,Dream's End,6,krawg.jpg
-Chur,Core,Magi,Dream's End,15,chur.jpg
-Weave Powder,Weave,Relic,Dream's End,0,weave_powder.jpg
-Darge,Kybar's Teeth,Creature,Dream's End,7,darge.jpg
-Jumbor,Weave,Creature,Dream's End,6,jumbor.jpg
-Yebed,Kybar's Teeth,Creature,Dream's End,6,yebed.jpg
-Barqua's Bubble,Orothe,Relic,Dream's End,2,barquas_bubble.jpg
-Grega's Ring,Cald,Relic,Dream's End,2,gregas_ring.jpg
-Drush,Core,Creature,Dream's End,4,drush.jpg
-Urhail,Underneath,Creature,Dream's End,7,urhail.jpg
-Prek,Underneath,Magi,Dream's End,13,prek.jpg
-Jagged Rocks,Kybar's Teeth,Spell,Dream's End,3,jagged_rocks.jpg
-Cliff Hyren,Kybar's Teeth,Creature,Dream's End,10,cliff_hyren.jpg
-Deep Barl,Orothe,Creature,Dream's End,6,deep_barl.jpg
-Kolte,Weave,Magi,Dream's End,11,kolte.jpg
-Hogra Stones,Kybar's Teeth,Relic,Dream's End,0,hogra_stones.jpg
-Eyes of Arderial,Arderial,Relic,Dream's End,0,eyes_of_arderial.jpg
-Feet of Stone,Kybar's Teeth,Spell,Dream's End,2,feet_of_stone.jpg
-Quirle,Weave,Magi,Dream's End,13,quirle.jpg
-Gia's Tome,Weave,Relic,Dream's End,1,gias_tome.jpg
-Monarch Hyren,Universal,Creature,Dream's End,9,monarch_hyren.jpg
-Harban,Core,Creature,Dream's End,5,harban.jpg
-Hok,Kybar's Teeth,Magi,Dream's End,14,hok.jpg
+﻿Name,Region,Type,Set,Cost,FileName,ImageURL
+Quallon,Weave,Creature,Dream's End,3,quallon.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ff6dcecd-1d40-4cc2-9a06-13ed2a999441/quallon.jpg
+Flugg,Weave,Creature,Dream's End,4,flugg.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/fe18aea1-c9c7-4c9d-8c14-37d065a7ff73/flugg.jpg
+Alaban Kit,Arderial,Creature,Dream's End,2,alaban_kit.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/fdb26452-5bf9-4927-8486-f993745f33a4/alaban_kit.jpg
+Nocturne,Naroom,Spell,Dream's End,4,nocturne.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/f9d1d9f0-9b28-4029-af96-962f3e4416fc/nocturne.jpg
+Dark Furok,Core,Creature,Dream's End,6,dark_furok.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/f8913a66-5555-44c0-928b-ae5a120aac96/dark_furok.jpg
+Kesia,Weave,Magi,Dream's End,14,kesia.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/f7cd3f27-8a96-46cf-84a8-13cc5fd94e49/kesia.jpg
+Stealth,Core,Spell,Dream's End,3,stealth.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/f4bda991-150e-4dc1-a7ed-9f7c66329318/stealth.jpg
+Targ'n,Kybar's Teeth,Magi,Dream's End,17,targn.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/f2724bd8-27ba-41f5-bd41-99bf4c8e970f/targn.jpg
+Sorrowing Ogar,Underneath,Magi,Dream's End,15,sorrowing_ogar.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/f0eb0861-1f6b-4f53-9494-73fa83d334c4/sorrowing_ogar.jpg
+The Hunt,Weave,Spell,Dream's End,1,the_hunt.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/eff721b4-5a32-41b2-b69b-1825a7d51efe/the_hunt.jpg
+Elios,Arderial,Magi,Dream's End,10,elios.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ef69d61e-5bd6-4ef8-8d5b-7e6c01693823/elios.jpg
+Chogulith,Kybar's Teeth,Relic,Dream's End,2,chogulith.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ece05abe-2c47-4cd2-b9f5-3784877d41e2/chogulith.jpg
+Weave Winds,Weave,Spell,Dream's End,6,weave_winds.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ea6be48e-4a9f-4140-85a8-5f8e3c5cb0a9/weave_winds.jpg
+Tomorrow's Jewel,Universal,Relic,Dream's End,1,tomorrows_jewel.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/e9efb19e-f18b-4dd0-9bad-49f6cdf67ff1/tomorrows_jewel.jpg
+Moga Pup,Kybar's Teeth,Creature,Dream's End,4,moga_pup.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/e9d976d0-db14-4677-a1cd-48e09b214549/moga_pup.jpg
+Grass Hyren,Weave,Creature,Dream's End,6,grass_hyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/e98f7e26-efcd-4859-807d-9a11e1b899b6/grass_hyren.jpg
+Rock Slide,Kybar's Teeth,Spell,Dream's End,5,kybars_teeth_rockslide.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ed88a6d0-b623-44c3-bcd2-3dacf217e45f/rock_slide.jpg
+Crag Quor,Kybar's Teeth,Creature,Dream's End,7,crag_quor.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/e13ad68b-3c31-440b-9259-897b207b81f4/crag_quor.jpg
+Zaya's Bow,Weave,Relic,Dream's End,0,zayas_bow.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/df08aa0b-60e6-4b54-a570-f25bdc586e6d/zayas_bow.jpg
+Groll - Watchkeeper,Kybar's Teeth,Magi,Dream's End,10,groll.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/dd40673d-78f7-470f-8ade-7a2dc00b1f0d/groll.jpg
+Junjertrug,Weave,Creature,Dream's End,7,junjertrug.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/db411ac0-2503-4725-83af-467bab87a554/junjertrug.jpg
+Rayje's Cloak,Universal,Relic,Dream's End,2,rayjes_cloak.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/daff5cd8-fc3d-4c92-8a2d-3d8a37edaf6f/rayjes_cloak.jpg
+Mosp,Kybar's Teeth,Creature,Dream's End,4,mosp.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d9f6ca24-a2bc-42db-ac73-4b843a3a885a/mosp.jpg
+Jip,Naroom,Creature,Dream's End,3,jip.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d764b593-b79d-4937-aab8-065c31732962/jip.jpg
+Iyori,Weave,Magi,Dream's End,15,iyori.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d7014737-3848-46c8-a850-8a3e8d32a564/iyori.jpg
+Cald Shadow Geyser,Core,Spell,Dream's End,5,cald_shadow_geyser.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d6d8d68c-89ea-40ce-b74a-133661f11ff5/cald_shadow_geyser.jpg
+Secrets of the Book,Core,Relic,Dream's End,0,secrets_of_the_book.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d6a15bcd-31b3-49f6-bb82-72ddc0b1d345/secrets_of_the_book.jpg
+Staff of Keepers,Universal,Relic,Dream's End,0,staff_of_keepers.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d5eb99e4-8c78-461f-934c-d4c865e2cfd6/staff_of_keepers.jpg
+Zannah,Naroom,Magi,Dream's End,14,zannah.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d2256904-822c-43e2-9215-1a1bf055224d/zannah.jpg
+Wessig,Kybar's Teeth,Magi,Dream's End,13,wessig.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/d0bd1470-1d79-405e-8b43-600f0277c158/wessig.jpg
+Baldar,Kybar's Teeth,Creature,Dream's End,6,baldar.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/cfb70e4a-a731-4a1d-ba71-ee8d3156c305/giant_baldar.jpg
+Giant Baldar,Kybar's Teeth,Creature,Dream's End,9,giant_baldar.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/cfb70e4a-a731-4a1d-ba71-ee8d3156c305/giant_baldar.jpg
+Silth Giant,Cald,Creature,Dream's End,10,silth_giant.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/cd9196ee-192b-4051-a1fc-04c159340766/silth_giant.jpg
+Searing Touch,Cald,Spell,Dream's End,3,searing_touch.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/cd482034-1c35-4a98-b5e7-9d47d44d81ea/searing_touch.jpg
+Xamf,Kybar's Teeth,Creature,Dream's End,5,xamf.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/cb936634-2389-4738-8fdd-72cc45ab02c8/xamf.jpg
+Underneath Shadow Geyser,Core,Spell,Dream's End,5,underneath_shadow_geyser.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/cab6f712-a1d9-4fc7-ba33-2229e613da31/underneath_shadow_geyser.jpg
+Diomant,Cald,Creature,Dream's End,6,diomant.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ca44d7c0-1f40-4d63-8b2e-b76b572cceb5/diomant.jpg
+Drought,Weave,Spell,Dream's End,2,drought.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/c9154b46-2eb5-4f09-b1cb-d8d77f42da74/drought.jpg
+Evu's Jellybeans,Naroom,Relic,Dream's End,X,evus_jellybeans.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/c76916f5-33cb-4ae2-88fc-50411219b2f4/evus_jellybeans.jpg
+Kesia's Flute,Weave,Relic,Dream's End,0,kesias_flute.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/c5f9f730-f1b7-4e58-b2a2-be87704ffec4/kesias_flute.jpg
+Weave Mat,Weave,Relic,Dream's End,2,weave_mat.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/c5eaa428-069e-4df8-9fcb-eea3ed184227/weave_mat.jpg
+Koll,Kybar's Teeth,Magi,Dream's End,12,koll.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/c3cadc90-8cfe-4aa3-bf58-bec7ae205ded/koll.jpg
+Tweave,Weave,Creature,Dream's End,1,tweave.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/c31e5971-75b9-47fc-ba35-dabfeae1a2f1/tweave.jpg
+Frusk,Weave,Creature,Dream's End,2,frusk.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/c1ea9e54-7e15-4caa-ad59-74bc094e590d/frusk.jpg
+Speag,Weave,Creature,Dream's End,2,speag.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/bfa570dc-bb56-4c4e-a493-eba8c1a15519/speag.jpg
+Vertigo,Kybar's Teeth,Spell,Dream's End,2,vertigo.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/bf97ba3b-2f90-4be6-bfe4-91c041d793d6/vertigo.jpg
+Kybar's Scroll,Kybar's Teeth,Relic,Dream's End,0,kybars_scroll.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/befcebe7-6cfd-4869-b8a8-99140912a8d2/kybars_scroll.jpg
+Ascend,Kybar's Teeth,Spell,Dream's End,2,ascend.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/be95caaa-5be2-48fc-8b49-0c41de7dd813/ascend.jpg
+Vogo,Kybar's Teeth,Creature,Dream's End,6,vogo.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/bda6005c-3211-4cdd-86a3-b98d84b46149/vogo.jpg
+Gargagnor,Kybar's Teeth,Creature,Dream's End,4,gargagnor.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/bc75a5dc-b94b-4176-a87d-59cdd5dd64c8/gargagnor.jpg
+Evil Evu,Core,Magi,Dream's End,15,evil_evu.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ba2d362c-0e22-46b5-afdf-3f732315c4a8/evil_evu.jpg
+Gratch,Kybar's Teeth,Creature,Dream's End,4,gratch.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/b8c8131b-7d5c-4b28-bfae-afe36382cb5e/gratch.jpg
+Emec,Kybar's Teeth,Magi,Dream's End,10,emec.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/b59dea5e-cacf-430a-aa5f-b95872fde106/emec.jpg
+Agram's Plaything,Core,Relic,Dream's End,0,agrams_plaything.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/b439972b-9082-49d6-9a3b-25cf4937a17d/agrams_plaything.jpg
+Rayje's Sword,Universal,Relic,Dream's End,0,rayjes_sword.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/b1f28cb2-3711-4f3b-9a43-7a926467f13e/rayjes_sword.jpg
+Cragnoc,Kybar's Teeth,Creature,Dream's End,10,cragnoc.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/b1ae6a0b-9718-4f96-8f61-5aebcb7cd7c2/cragnoc.jpg
+Tuk Berries,Weave,Relic,Dream's End,0,tuk_berries.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/b04a396a-5db8-492c-87c2-725276ad3523/tuk_berries.jpg
+Crystal Parmalag,Underneath,Creature,Dream's End,7,crystal_parmalag.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ae3f2bb5-b379-40c3-99e0-a190649bcd26/crystal_parmalag.jpg
+Heppeswip,Weave,Creature,Dream's End,4,heppeswip.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ad36332f-0e93-4935-85dc-871a470255b0/heppeswip.jpg
+Elder Vellup,Arderial,Creature,Dream's End,5,elder_vellup.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/ac7dc827-354f-4bf3-96ab-84ba402d45a3/elder_vellup.jpg
+Jagt,Kybar's Teeth,Magi,Dream's End,11,jagt.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/aa75fb8d-83a2-4f21-a12f-cb535b796eee/jagt.jpg
+Stone Quor,Kybar's Teeth,Creature,Dream's End,8,stone_quor.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/a86db9ef-6fdb-4b27-a01f-ee0d3a00da7f/stone_quor.jpg
+Zassyfer,Weave,Creature,Dream's End,3,zassyfer.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/9fc7d73f-f6de-4f0a-8f46-41d0ab2592d1/zassyfer.jpg
+Uwamar,Weave,Creature,Dream's End,3,uwamar.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/9dbf4a1c-ce86-4c33-b24b-9f2ea067a39d/uwamar.jpg
+Iximin,Orothe,Creature,Dream's End,3,iximin.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/9d33296c-0a60-48ab-bdce-6a0cb768dac0/iximin.jpg
+Grand Epik,Arderial,Creature,Dream's End,5,grand_epik.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/9cd36316-3dbf-48ee-8e9a-f6b6721827cc/grand_epik.jpg
+Beam of Light,Universal,Spell,Dream's End,4,beam_of_light.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/95d448f8-71dd-4a18-a1b4-27f6b5465b75/beam_of_light.jpg
+Garadan,Core,Creature,Dream's End,7,garadan.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/941c6e2d-02ab-462d-ba81-b4d440df2964/garadan.jpg
+Orothe Shadow Geyser,Core,Spell,Dream's End,5,orothe_shadow_geyser.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/907820ee-88a3-4089-b703-c0ebd036f4c6/orothe_shadow_geyser.jpg
+Kybar's Echo,Kybar's Teeth,Spell,Dream's End,1,kybars_echo.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/8ff22596-bfcc-4fd2-a844-3efea9d0131e/kybars_echo.jpg
+Giant Arboll,Cald,Creature,Dream's End,4,giant_arboll.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/8c473513-b050-4047-8f0b-85363c532ea8/giant_arboll.jpg
+Sheath,Weave,Spell,Dream's End,3,sheath.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/8ba46795-aec7-4906-b96a-5cc465238fef/sheath.jpg
+Weave Mind,Weave,Spell,Dream's End,1,weave_mind.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/87d60a63-fbff-4931-a810-73e339a7011a/weave_mind.jpg
+Delia - Keeper,Arderial,Magi,Dream's End,12,delia.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/86c1f634-d209-4486-a1eb-f1b2c5555c58/delia.jpg
+Roar,Kybar's Teeth,Spell,Dream's End,2,roar.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/8641e67c-cf68-41d8-a69d-d8f836226b02/roar.jpg
+Hubram,Underneath,Creature,Dream's End,2,hubram.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/85b1bcfa-7c93-4d62-9e91-a0a108d4d0c0/hubram.jpg
+Weave Hyren,Weave,Creature,Dream's End,8,weave_hyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5a2a1c2c-a1b9-48d1-a99e-36e6262fc705/weave_hyren.jpg
+Ullig's Slingshot,Kybar's Teeth,Relic,Dream's End,0,ulligs_slingshot.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/83f29c1f-7789-438c-b6dc-72c623bc7648/ulligs_slingshot.jpg
+Karak Necklace,Orothe,Relic,Dream's End,0,karak_necklace.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/83726d7a-6528-4d2f-a759-23b1103190ff/karak_necklace.jpg
+Gremm's Helmet,Underneath,Relic,Dream's End,2,gremms_helmet.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/830005db-1555-4dd8-b5c2-a3b4f412a7a2/gremms_helmet.jpg
+Zajan,Naroom,Magi,Dream's End,15,zajan.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/7e81b590-4a60-4ec0-94ef-124fd53c806a/zajan.jpg
+Bungaloo,Weave,Creature,Dream's End,2,bungaloo_weave.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/7bed54e7-8228-48b3-a2d3-b2f37f4de7d7/bungaloo_weave.jpg
+Storm Shield,Arderial,Relic,Dream's End,0,storm_shield.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/7baa5a38-36a2-4b85-913e-eaed9b564966/storm_shield.jpg
+Junjertrug Horn,Weave,Relic,Dream's End,1,junjertrug_horn.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/794b1b93-7ea3-46ad-8373-e2aa9bdc34ea/junjertrug_horn.jpg
+Naroom Shadow Geyser,Core,Spell,Dream's End,5,naroom_shadow_geyser.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/784512e6-4e9a-42c8-91b4-34bf73bad9d1/naroom_shadow_geyser.jpg
+Tremor Stones,Underneath,Relic,Dream's End,0,tremor_stones.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/78127e74-3c8d-4ad3-8bbf-6c4c16a62554/tremor_stones.jpg
+Rock Hyren,Kybar's Teeth,Creature,Dream's End,11,rock_hyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/baa6581a-ad1d-4b7b-aa73-13119cc2e817/rock_hyren.jpg
+Pagajack,Weave,Creature,Dream's End,1,pagajack.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/73c22266-1a25-457e-97a5-71df36e500d8/pagajack.jpg
+Lava Flow,Cald,Spell,Dream's End,2,lava_flow.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/72cdb149-717f-44ac-9cf2-14983c76f53a/lava_flow.jpg
+Jasker's Mask,Kybar's Teeth,Relic,Dream's End,0,jaskers_mask.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/7022b07e-9fff-4919-9203-bc29dcf9287d/jaskers_mask.jpg
+Riptide,Orothe,Spell,Dream's End,2,riptide.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/6b5ac0fe-33e4-4890-bb7f-d4d4a5bea7df/riptide.jpg
+Hidden Door,Underneath,Spell,Dream's End,2,hidden_door.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/6ad351d3-d18b-4bae-97cf-9957f1269240/hidden_door.jpg
+Climbing Staff,Kybar's Teeth,Relic,Dream's End,0,climbing_staff.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/692ad306-d917-4e47-8e03-6e9eab49c7ac/climbing_staff.jpg
+Marella,Weave,Magi,Dream's End,10,marella.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/67ce8817-245d-484a-8bad-43a43bd458e5/marella.jpg
+Yark Gloves,Kybar's Teeth,Relic,Dream's End,1,yark_gloves.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/678a6619-0296-4696-bc8d-e44715b8ecdf/yark_gloves.jpg
+Arderial Shadow Geyser,Core,Spell,Dream's End,5,arderial_shadow_geyser.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/665b3d08-b6d5-4aef-825a-75f5a58fdffe/arderial_shadow_geyser.jpg
+Abraxin's Crown,Cald,Relic,Dream's End,0,abraxins_crown.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/645830c7-63cf-4c67-a3a8-c1350443cc42/abraxins_crown.jpg
+Moga,Kybar's Teeth,Creature,Dream's End,6,moga.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/62b8d4de-425b-47f0-9329-c9d3510c90a7/moga.jpg
+Fate's Whimsy,Universal,Spell,Dream's End,1,fates_whimsy.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/629c0835-2f75-499d-b6c6-40e2a51da748/fates_whimsy.jpg
+Uwamar Beads,Weave,Relic,Dream's End,0,uwamar_beads.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/60e014fa-ceb3-4500-bfd1-bd87b3c346d7/uwamar_beads.jpg
+Equilibrate,Universal,Spell,Dream's End,3,equilibrate.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/605d719f-dadb-4ede-a132-ff69eba03be1/equilibrate.jpg
+Sorreah's Dream,Arderial,Spell,Dream's End,X,sorreahs_dream.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/601e3ac9-ab1e-4af4-b7c7-cf93e2dae2a8/sorreahs_dream.jpg
+Binding,Weave,Spell,Dream's End,2,binding.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5f3a9c98-da53-49e8-9c2e-2bef8f30b01b/binding.jpg
+Nodj,Naroom,Creature,Dream's End,5,nodj.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5f33d0f5-3227-4ab8-88d8-f60edb8809c5/nodj.jpg
+Grej,Kybar's Teeth,Magi,Dream's End,13,grej.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5f14175c-3f62-4a8a-9e4c-3e96309939a9/grej.jpg
+Aritex,Weave,Creature,Dream's End,5,aritex.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5d7e6619-a9ee-4210-929c-4e5645b39498/aritex.jpg
+Bungaloo,Naroom,Creature,Dream's End,2,bungaloo_naroom.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5b826288-969a-4747-9a40-e318ec979918/bungaloo_naroom.jpg
+Bria,Orothe,Magi,Dream's End,12,bria.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5ae4f063-c39f-4579-9026-dbaf672e573c/bria.jpg
+Agram's Staff,Core,Relic,Dream's End,2,agrams_staff.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5a6d561d-4d72-4892-ab33-0064ebd0cc09/agrams_staff.jpg
+Nalo,Orothe,Creature,Dream's End,4,nalo.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/58587d8a-ad6e-42ef-b261-3d741f589fbb/nalo.jpg
+Garan,Naroom,Creature,Dream's End,6,garan.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/57aa3ca0-62bb-4fa9-b15f-8a84dd5dea31/garan.jpg
+Harmony,Weave,Spell,Dream's End,6,harmony.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/56db1025-cd5d-4fc7-9fa8-3179bb8f3d7c/harmony.jpg
+Osatch,Weave,Creature,Dream's End,2,osatch.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/54a2d973-77a2-4320-a01f-d86632c925bd/osatch.jpg
+Bo'Ahsa,Weave,Magi,Dream's End,14,boahsa.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/4df9f70a-ecb0-4905-bf4f-5b4e00438656/boahsa.jpg
+Yajo,Weave,Creature,Dream's End,3,yajo.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/4de3749c-37d5-47bd-9504-b88a0cd259dd/yajo.jpg
+Ashio,Core,Magi,Dream's End,13,ashio.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/4b77be23-f422-4f5a-bf0e-330d802f7b1f/ashio.jpg
+Rayalon,Arderial,Creature,Dream's End,6,rayalon.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/4b390509-ee8a-4019-80d6-a8600b3c4299/rayalon.jpg
+Cataclysm,Arderial,Spell,Dream's End,10,cataclysm.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/4ac41d9a-f687-4b1f-a7b8-35ddcf169246/cataclysm.jpg
+Kazm,Kybar's Teeth,Magi,Dream's End,15,kazm.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/4aabdf55-690b-4e72-9eb4-c5a446dcfad9/kazm.jpg
+Ullig,Kybar's Teeth,Magi,Dream's End,20,ullig.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/4a1ef84d-c8b5-44d3-becf-bdb3cfa920c2/ullig.jpg
+Sawgrass,Weave,Spell,Dream's End,5,sawgrass.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/48360794-8d54-4d01-bc4c-f36c8ad711ba/sawgrass.jpg
+Artyva,Weave,Magi,Dream's End,13,artyva.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/45f218aa-cc3e-4ddc-8480-ea5f5741232c/artyva.jpg
+Agrilla,Kybar's Teeth,Creature,Dream's End,6,agrilla.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/4536a054-cd02-4095-8233-6bf9fda1fae2/agrilla.jpg
+Zaya,Weave,Magi,Dream's End,16,zaya.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/43b52181-3a30-4d84-bcae-17e58c3b0fac/zaya.jpg
+Sagawal,Kybar's Teeth,Creature,Dream's End,3,sagawal.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/433055d0-efa9-4019-a5c0-c8278c396947/sagawal.jpg
+Chaos Plith,Core,Creature,Dream's End,5,chaos_plith.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/3f9fc827-a191-493f-94ea-eed7eb53d511/chaos_plith.jpg
+Pruitt's Robe,Naroom,Relic,Dream's End,0,pruitts_robe.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/3c9c5a39-7c24-4484-a622-13c2d244c714/pruitts_robe.jpg
+Pody,Weave,Creature,Dream's End,4,pody.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/3ae859ec-4f63-4d79-bdfc-0f2d6275f0b4/pody.jpg
+M'Rika,Orothe,Magi,Dream's End,12,mrika.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/374d3014-b0d0-4c8c-af3c-3a75b4557631/mrika.jpg
+Deep Wellisk,Orothe,Creature,Dream's End,4,deep_wellisk.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/3725e325-6d34-46d6-bf4e-d055b128f72d/deep_wellisk.jpg
+Spore Vashp,Underneath,Creature,Dream's End,3,spore_vashp.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/357eca2e-f39d-405b-9ce6-87b6161f53bd/spore_vashp.jpg
+Moga Fang Necklace,Kybar's Teeth,Relic,Dream's End,0,moga_fang_necklace.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/353d824a-6e75-418e-b3ee-4b3a5312477c/moga_fang_necklace.jpg
+Swamp Hyren,Bograth,Creature,Dream's End,8,bograth_swamp_hyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/5499b937-633b-4092-89a3-f6e19d7db9d6/swamp_hyren.jpg
+Aglow,Underneath,Spell,Dream's End,2,aglow.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/3359ca6b-59d5-4cec-b7e1-3a24a6950391/aglow.jpg
+Shock Vashp,Arderial,Creature,Dream's End,2,shock_vashp.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/33435ab1-431c-4b45-8406-8c68cd1af8f2/shock_vashp.jpg
+Yark,Kybar's Teeth,Creature,Dream's End,5,yark.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/32011397-305d-4265-90ba-d25b05149bbe/yark.jpg
+Maelstrom Flask,Universal,Relic,Dream's End,0,maelstrom_flask.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/31ffdb15-0964-4307-9180-15b95e242e7b/maelstrom_flask.jpg
+Stone Storm,Kybar's Teeth,Spell,Dream's End,X+3,stone_storm.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/31eee4f3-5e46-4263-92ab-536f72e29bb4/stone_storm.jpg
+Vaporize,Core,Spell,Dream's End,3,vaporize.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/305433c3-f8e6-49d6-889e-909ecdc34f72/vaporize.jpg
+Vuryip,Weave,Creature,Dream's End,6,vuryip.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2f265f7e-1345-48b7-874f-2523d23b3890/vuryip.jpg
+Lifeweave,Weave,Spell,Dream's End,2,lifeweave.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2e5c828e-0462-4ad8-80c1-18c26f4c9116/lifeweave.jpg
+Vorga,Cald,Magi,Dream's End,13,vorga.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2df3b8f3-1154-4d56-9145-6bf37a8cb963/vorga.jpg
+Jungle Hyren,Paradwyn,Creature,Dream's End,8,jungle_hyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2d66a19c-a97e-4c4a-83ef-f276836e699c/jungle_hyren.jpg
+Shell,Orothe,Spell,Dream's End,2,shell.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2ccb2b5a-8b5a-4f0c-847e-044a7958c1e9/shell.jpg
+Lascinth,Weave,Creature,Dream's End,5,lascinth.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2c70fb9c-ed04-4952-a7d4-439b25df24ab/lascinth.jpg
+Smoke Xyx,Cald,Creature,Dream's End,4,smoke_xyx.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2bfb8305-3d2a-4786-8303-05be40ae5322/smoke_xyx.jpg
+Kybar's Hammer,Kybar's Teeth,Relic,Dream's End,2,kybars_hammer.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2be33eba-6bfe-4db0-a3ef-fc8e07d94bcb/kybars_hammer.jpg
+Amanax,Cald,Magi,Dream's End,10,amanax.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/28e2e214-4ccd-4991-be64-f6bb4471f890/amanax.jpg
+Granite Parmalag,Kybar's Teeth,Creature,Dream's End,8,granite_parmalag.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/28bcd087-7a1b-4a03-bbd5-5a13267f46ec/granite_parmalag.jpg
+Vim and Vigor,Naroom,Spell,Dream's End,4,vim_and_vigor.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2851062e-710b-404d-85d2-490cac0301b7/vim_and_vigor.jpg
+Drowl,Weave,Creature,Dream's End,6,drowl.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/281a5c24-9a00-4239-b03c-4da4ee4046cb/drowl.jpg
+Ominous Presence,Kybar's Teeth,Spell,Dream's End,1,ominous_presence.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/26f9f0e2-2f76-4d53-b5ea-655c5359aa72/ominous_presence.jpg
+Elder Weebo,Naroom,Creature,Dream's End,5,elder_weebo.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/255cc749-3d35-4e37-b646-0832aba03047/elder_weebo.jpg
+Hrada,Core,Magi,Dream's End,16,hrada.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/23de202f-379c-41cb-87a4-f340d3d16d7c/hrada.jpg
+Weggit,Weave,Creature,Dream's End,3,weggit.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2334f6de-559e-45ff-9f4e-01f404c85c00/weggit.jpg
+Yerthe,Weave,Magi,Dream's End,14,yerthe.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/232bae0f-3e03-47bb-a4a9-cd8c6e1aa0e7/yerthe.jpg
+Ahdar,Weave,Magi,Dream's End,15,ahdar.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/2212c5d8-e548-4eb7-b9f8-f2455bba6095/ahdar.jpg
+Syre,Underneath,Creature,Dream's End,3,syre.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1ffc55ff-0cac-45e4-b6a2-ee8098cde5e3/syre.jpg
+Chogus,Kybar's Teeth,Creature,Dream's End,4,chogus.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1dd81674-a293-439c-9798-761bf436dea8/giant_chogus.jpg
+Giant Chogus,Kybar's Teeth,Creature,Dream's End,8,giant_chogus.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1dd81674-a293-439c-9798-761bf436dea8/giant_chogus.jpg
+Weave Hut,Weave,Relic,Dream's End,0,weave_hut.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1cad937b-6173-4c99-8b1a-50ea44bb0644/weave_hut.jpg
+Parathin,Orothe,Creature,Dream's End,3,parathin.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1b4b9f5a-b459-4272-8ce9-a0dc75bab856/parathin.jpg
+Krawg,Cald,Creature,Dream's End,6,krawg.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1a321399-1235-4d1a-bd47-0d41deeab5d0/krawg.jpg
+Chur,Core,Magi,Dream's End,15,chur.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/19ca208d-012c-42fb-baff-79d0a9bbf31c/chur.jpg
+Weave Powder,Weave,Relic,Dream's End,0,weave_powder.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1918a597-9e42-4b48-92fe-ecf8782bc5a8/weave_powder.jpg
+Darge,Kybar's Teeth,Creature,Dream's End,7,darge.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/18974ecf-a69f-4fe3-bfab-0ac7ef783898/darge.jpg
+Jumbor,Weave,Creature,Dream's End,6,jumbor.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/15bdf1a0-4cab-469b-a98c-5dfefcd68353/jumbor.jpg
+Yebed,Kybar's Teeth,Creature,Dream's End,6,yebed.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/15a393a8-e3fd-4247-9ff6-e2d54fe6d651/yebed.jpg
+Barqua's Bubble,Orothe,Relic,Dream's End,2,barquas_bubble.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1466d752-f071-489d-9c0c-85122eca6a15/barquas_bubble.jpg
+Grega's Ring,Cald,Relic,Dream's End,2,gregas_ring.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/13dc5058-f001-4aca-a51e-769bb1a665ba/gregas_ring.jpg
+Drush,Core,Creature,Dream's End,4,drush.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/13bcc256-6a47-415d-8dd6-4edb0aefb59a/drush.jpg
+Urhail,Underneath,Creature,Dream's End,7,urhail.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/13ba823b-d8ae-4532-9b38-999e52a9f02d/urhail.jpg
+Prek,Underneath,Magi,Dream's End,13,prek.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/12e9e8c5-c698-4556-a822-cb024cdfd95d/prek.jpg
+Jagged Rocks,Kybar's Teeth,Spell,Dream's End,3,jagged_rocks.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/116ec5db-819f-45a9-9d5e-0d70e067fa80/jagged_rocks.jpg
+Cliff Hyren,Kybar's Teeth,Creature,Dream's End,10,cliff_hyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1157ea71-fa17-4dcd-a9b3-344d77f32dbc/cliff_hyren.jpg
+Deep Barl,Orothe,Creature,Dream's End,6,deep_barl.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/1051826e-62d6-47e5-8841-2988c28feda9/deep_barl.jpg
+Kolte,Weave,Magi,Dream's End,11,kolte.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/10486cf1-132b-4389-9c34-5d30c46fed04/kolte.jpg
+Hogra Stones,Kybar's Teeth,Relic,Dream's End,0,hogra_stones.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0e65d51c-471f-4809-9330-35b8c2eb1440/hogra_stones.jpg
+Eyes of Arderial,Arderial,Relic,Dream's End,0,eyes_of_arderial.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0e132dd6-6604-43d3-b472-a007becf66d7/eyes_of_arderial.jpg
+Feet of Stone,Kybar's Teeth,Spell,Dream's End,2,feet_of_stone.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0e11ca36-f983-4aed-8a6f-fa71fb0566e8/feet_of_stone.jpg
+Quirle,Weave,Magi,Dream's End,13,quirle.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0d7b7876-ea5c-486a-920e-42b9f2e50fd3/quirle.jpg
+Gia's Tome,Weave,Relic,Dream's End,1,gias_tome.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0d6644d2-948f-4fc0-a20f-2acf1b55c468/gias_tome.jpg
+Monarch Hyren,Universal,Creature,Dream's End,9,monarch_hyren.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0cb54ac3-c971-4e6e-b00e-53727d9f70bf/monarch_hyren.jpg
+Harban,Core,Creature,Dream's End,5,harban.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/0bb543cc-3b0e-471b-b15c-eb56b43c4523/harban.jpg
+Hok,Kybar's Teeth,Magi,Dream's End,14,hok.jpg,https://images.squarespace-cdn.com/content/v1/66f0d369bee947347e4513a0/03056ea5-5149-4983-b63b-6318698df477/hok.jpg
